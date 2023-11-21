@@ -1,0 +1,7 @@
+@font-face{
+    font-family: style1;
+    src: url(/style/Nunito-ExtraBold.ttf)
+}
+*{
+    font-family: style1;
+}
